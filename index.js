@@ -63,7 +63,7 @@ const dummyUsers = [
     id: 6,
     name: 'Vishal Kumar',
     designation: 'Full Stack Developer',
-    phone: '+55 11 98123-4567',
+    phone: '+91 9876543210',
     email: 'vishal.kumar@example.com',
     address: 'Rua das Flores, 210, São Paulo',
     pincode: '01015-000',
