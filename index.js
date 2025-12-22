@@ -48,6 +48,26 @@ const dummyUsers = [
     address: 'Rua das Flores, 210, São Paulo',
     pincode: '01015-000',
     country: 'Brazil'
+  },
+  {
+    id: 5,
+    name: 'Ankur Kumar Shahi',
+    designation: 'Software Engineer',
+    phone: '+55 11 98123-4567',
+    email: 'ankur.shahi@example.com',
+    address: 'Rua das Flores, 210, São Paulo',
+    pincode: '01015-000',
+    country: 'Brazil'
+  },
+  {
+    id: 6,
+    name: 'Vishal Kumar',
+    designation: 'Full Stack Developer',
+    phone: '+55 11 98123-4567',
+    email: 'vishal.kumar@example.com',
+    address: 'Rua das Flores, 210, São Paulo',
+    pincode: '01015-000',
+    country: 'Brazil'
   }
 ];
 
