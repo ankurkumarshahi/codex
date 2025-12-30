@@ -1,10 +1,10 @@
 {
   "name": "codex",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
-    "start": "node index.js",
-    "build": "node --check index.js",
+    "start": "node main.js",
+    "build": "node --check main.js",
     "test": "npm run build",
     "deploy": "node scripts/deploy.js",
     "rollback": "node scripts/rollback.js"
